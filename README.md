@@ -67,6 +67,9 @@ else if(distance>=95){
 }  </pre>
 <div>
 
+<h2>Circuite Diagram With Connections</h2>
+<img src="images/connections.PNG">
+
 <h3>Arduino UNO</h3>
 <p>The Arduino Uno is a microcontroller board based on the ATmega328. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming (ICSP) header, and a reset button.<img src="images/arduino_pins.png"></p>
 
@@ -82,5 +85,4 @@ else if(distance>=95){
 <h3>Water motor</h3>
 <img src="images/water_motor.jfif">
 
-<h2>Circuite Diagram With Connections</h2>
-<img src="images/connections.PNG">
+
