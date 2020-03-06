@@ -82,5 +82,5 @@ else if(distance>=95){
 <h3>Water motor</h3>
 <img src="images/water_motor.jfif">
 
-<h2>Circuite EDiagram With Connections</h2>
+<h2>Circuite Diagram With Connections</h2>
 <img src="images/connections.PNG">
