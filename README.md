@@ -25,6 +25,7 @@ On/Off water motor automatically based on the water level in the water tank give
 
 <h3>Source Program for ultrasonic sensor and motor control</h3>
 <div style="backgroud-color:black;">
+  <pre>
 //------------polarao-------
 ///----self water motor control-----------
 
@@ -64,7 +65,7 @@ else if(distance>=95){
   }
   //104 
   
-}  
+}  </pre>
 <div>
 
 <h3>HC-SR04 Ultrasonic Sensor</h3>
