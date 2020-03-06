@@ -67,7 +67,7 @@ else if(distance>=95){
 }  </pre>
 <div>
 
-<h2>Circuite Diagram With Connections</h2>
+<h2>Project Diagram</h2>
 <img src="images/connections.PNG">
 
 <h3>Arduino UNO</h3>
