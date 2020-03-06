@@ -16,9 +16,9 @@ On/Off water motor automatically based on the water level in the water tank give
 <h3>Software</h3>
 <ol>
   <li>Arduino IDE</li>
-  <li>Source Program for ultrasonic and motor control</li>
+  <li>Source Program for ultrasonic sensor and motor control</li>
 </ol>
 
 <h2>Description</h2>
 <h3>Ultrasonic Sensor</h3>
-<p>An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal. Ultrasonic waves travel faster than the speed of audible sound (i.e. the sound that humans can hear).<img src="images/"></p>
+<p>An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal. Ultrasonic waves travel faster than the speed of audible sound (i.e. the sound that humans can hear).<img src="images/ultrasonic_sensor.jpg"></p>
