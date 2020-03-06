@@ -76,8 +76,7 @@ else if(distance>=95){
 <h3>Relay</h3>
 <p>A relay is an electromagnetic switch operated by a relatively small electric current that can turn on or off a much larger electric current. The heart of a relay is an electromagnet (a coil of wire that becomes a temporary magnet when electricity flows through it).<img src="images/relay.jpeg"></p>
 
-<h3>Jumper Wires</h3>
-<p>The term "jumper wire" simply refers to a conducting wire that establishes an electrical connection between two points in a circuit. You can use jumper wires to modify a circuit or to diagnose problems in a circuit.<img src="images/jumper_wires.jpg"></p>
+
 
 <h3>Water motor</h3>
 <img src="images/water_motor.jfif">
