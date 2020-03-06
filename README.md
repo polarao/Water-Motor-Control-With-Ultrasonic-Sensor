@@ -24,7 +24,7 @@ On/Off water motor automatically based on the water level in the water tank give
 <p>The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software. <img src="images/arduino_ide.svg"></p>
 
 <h3>Source Program for ultrasonic sensor and motor control</h3>
-<div style="backgroud-color:black;">
+<div style="backgroud-color: #331a00;">
   <pre>
 //------------polarao-------
 ///----self water motor control-----------
