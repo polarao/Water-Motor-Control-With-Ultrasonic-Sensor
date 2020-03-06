@@ -68,7 +68,7 @@ else if(distance>=95){
 <div>
 
 <h3>Arduino UNO</h3>
-<p>The Arduino Uno is a microcontroller board based on the ATmega328. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming (ICSP) header, and a reset button.<img src="images/arduino_pin.jpg"></p>
+<p>The Arduino Uno is a microcontroller board based on the ATmega328. It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming (ICSP) header, and a reset button.<img src="images/arduino_pins.jpg"></p>
 
 <h3>HC-SR04 Ultrasonic Sensor</h3>
 <p>An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal. Ultrasonic waves travel faster than the speed of audible sound (i.e. the sound that humans can hear).<img src="images/ultrasonic_sensor.jpg"></p>
