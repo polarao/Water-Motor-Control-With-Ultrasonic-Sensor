@@ -8,7 +8,7 @@ On/Off water motor automatically based on the water level in the water tank give
 <h3>Hardware</h3>
 <ol>
   <li>Arduino Uno</li>
-  <li>Ultrasonic Sensor 5v</li>
+  <li>HC-SR04 Ultrasonic Sensor 5v</li>
   <li>Relay</li>
   <li>Jumper Wires</li>
   <li>Water Motor</li>
@@ -21,8 +21,8 @@ On/Off water motor automatically based on the water level in the water tank give
 
 <h2>Description</h2>
 <h3>Arduino IDE</h3>
-<p>The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software. <img src="images/arduino_ide.jpg"></p>
+<p>The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software. <img src="images/arduino_ide.svg"></p>
 
-<h3>Ultrasonic Sensor</h3>
+<h3>HC-SR04 Ultrasonic Sensor</h3>
 <p>An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal. Ultrasonic waves travel faster than the speed of audible sound (i.e. the sound that humans can hear).<img src="images/ultrasonic_sensor.jpg"></p>
 
