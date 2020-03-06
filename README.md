@@ -66,7 +66,10 @@ else if(distance>=95){
   //104 cm water tank 1000 liters 
 }  </pre>
 <div>
-
+  
+<h2>Project Pictures</h2>
+<img src="images/project_pic.png">
+  
 <h2>Project Diagram</h2>
 <img src="images/connections.PNG">
 
