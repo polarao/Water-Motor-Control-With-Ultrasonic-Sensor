@@ -4,6 +4,8 @@ On/Off water motor automatically based on the water level in the water tank give
 <img src="images/water_tank.jpg" style="width:20px;height:20px;">
 <h2>About this Project</h2>
 <p>This project is a about a fully functional water level controller using Arduino and Ultrasonic sensor. The Ultrasonic sensor calculate level of water in the tank and switches the motor ON when the water level goes below a predetermined level. The circuit automatically switches the motor OFF when the tank is full. The circuit also monitors the level of water in the sump tank (source tank).</p>
+<h2>Project Diagram</h2>
+<img src="images/connections.PNG">
 <h2>Requirements</h2>
 <h3>Hardware</h3>
 <ol>
@@ -86,8 +88,7 @@ else if(distance>=95){
 <h2>Project Pictures</h2>
 <img src="images/project_pic.png">
   
-<h2>Project Diagram</h2>
-<img src="images/connections.PNG">
+
 
 
 
